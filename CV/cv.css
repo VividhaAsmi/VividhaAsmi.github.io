@@ -1,0 +1,40 @@
+body {
+    background-color: wheat;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:black;
+    font-weight: bolder;
+}
+nav {
+    text-align: center;
+     display: inline-block; 
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+   background-color: silver ; 
+   padding: 20px;
+   margin: 50px;
+   
+  
+   
+}
+div {
+    background-image:linear-gradient(teal,white);
+    padding:30px;
+    margin:20px;
+    position: relative;
+    border-radius: 10px;
+    font-size: large;
+}
+a:hover {
+    background-color: yellow;
+  }
+
+ 
